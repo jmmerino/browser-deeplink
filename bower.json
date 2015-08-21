@@ -1,0 +1,29 @@
+{
+  "name": "browser-deeplink",
+  "main": "browser-deeplink.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jmmerino/browser-deeplink",
+  "authors": [
+    "Hampus Ohlsson"
+  ],
+  "description": "Redirect mobile website users to your native iOS and/or Android app",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "deep-links",
+    "android",
+    "iphone",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
